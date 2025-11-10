@@ -71,7 +71,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # (or) Activate the environment (Windows)
-.env\Scriptsctivate
+.env\Scripts\activate
 ```
 
 ---
