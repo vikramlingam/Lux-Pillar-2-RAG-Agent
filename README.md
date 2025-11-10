@@ -53,8 +53,8 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPONAME.git
-cd YOUR_REPONAME
+git clone https://github.com/vikramlingam/Lux-Pillar-2-RAG-Agent
+cd Lux-Pillar-2-RAG-Agent
 ```
 
 ---
