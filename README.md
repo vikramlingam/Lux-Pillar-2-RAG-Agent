@@ -14,7 +14,7 @@ It provides **source citations**, generates **Mermaid.js flowcharts**, and ensur
   Automatically generates **Mermaid.js** diagrams (useful for company structures or process flows).
 
 - **Local & Secure**  
-  All your PDFs, embeddings, and API keys are stored **locally** — never sent anywhere else.
+  All your PDFs, embeddings, and API keys are stored **locally** and never sent anywhere else.
 
 ---
 
