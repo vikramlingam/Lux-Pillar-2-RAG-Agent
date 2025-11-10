@@ -1,6 +1,6 @@
-# Local RAG Agent using Google Gemini
+# Local RAG Agent For Luxembourg Pillar 2 and ATAD Legislation.
 
-A local Retrieval-Augmented Generation (RAG) agent that answers questions using your own PDF documents as its knowledge base.  
+A local Retrieval-Augmented Generation (RAG) agent that answers questions using your own PDF documents as its knowledge base. I tried on  Luxembourg Pillar 2 and ATAD Legislation.  
 It provides **source citations**, generates **Mermaid.js flowcharts**, and ensures all data remains **fully local and secure**.
 
 ---
