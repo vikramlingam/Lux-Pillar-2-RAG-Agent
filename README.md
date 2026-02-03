@@ -176,6 +176,3 @@ This project is open-source.
 Feel free to use, modify, and extend it for your own local RAG workflows.
 
 ---
-
-
-
